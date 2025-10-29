@@ -1,0 +1,9 @@
+{
+  "KG": "FrenchRoyalty",
+  "prefix": "http://FrenchRoyalty.org/",
+  "rules_file": "french_royalty.csv",
+  "rdf_file": "FrenchRoyalty.nt",
+  "constraints_folder": "FrenchRoyalty",
+  "log_level": "INFO",
+  "pca_threshold": 0.75
+}
