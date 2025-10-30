@@ -15,13 +15,11 @@ symbolic-predictions-project/
 
 ## Execution Steps
 
-### 1. Navigate to project directory
-cd /path/to/symbolic-predictions-project
+### 1. Install requirements
+pip install -r requirements.txt
 
-### 2. Activate Python environment
-source symbolic_env/bin/activate
-
-### 3. Run the main program
+### 2. Run the main program
 go run full_data_main.go
+
 
 
